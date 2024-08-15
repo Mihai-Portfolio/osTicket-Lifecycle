@@ -39,7 +39,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 </p>
-Use the following link to take you to the end user's osTicket page to create three tickets and work them - http://localhost/osTicket/. The first ticket will be from Karen Smith, under the help topic "Business Critical Outage". The summary is Online Banking is Down and the text will read "There have been reports of customers getting a 404 error when trying to access online banking". The second ticket will be from Ken Smith under the help topic "Personal Computer Issues". The summary will be "Adobe reader not working" and the text will read "The accounting department is having issues with their adobe readers". The third ticket will be from Ken Smith under the help topic "General Inquiry". The summary is "Our department is having issues with our tablets. They are running very slow and I'm curious as to when we're getting a hardware refresh".
+Use the following link to take you to the end user's osTicket page to create three tickets - http://localhost/osTicket/. The first ticket will be from Karen Smith, under the help topic "Business Critical Outage". The summary is Online Banking is Down and the text will read "There have been reports of customers getting a 404 error when trying to access online banking". The second ticket will be from Ken Smith under the help topic "Personal Computer Issues". The summary will be "Adobe reader not working" and the text will read "The accounting department is having issues with their adobe readers". The third ticket will be from Ken Smith under the help topic "General Inquiry". The summary is "When are we getting a hardware refresh" and the text will read "Our department is having issues with our tablets. They are running very slow and I'm curious as to when we're getting a hardware refresh".
 
 </p>
 <br />
@@ -66,7 +66,7 @@ Log into osTicket with the account we created for Jane using the username and pa
 
 </p>
 <p>
-Click the firt ticket we created (Online Banking is Down), and make a couple adjustments. Since it's a business impacting event, change the priority to emergency, change the department to System Administrators, assign it to Jane Doe, and change the SLA to SEV-A. Scroll down and reply "Working with system administrators to get mobile banking online". Go back to Tickets and you should see Priority and Assigned To filled out. Click on the ticket again and reply "Scott found and corrected a load balancer and resolved the issue. Mobile banking is running again". Be sure to set the Ticket Status to "Resolved" and click post reply. Once resolved, the ticket moves from open ticket to closed tickets and should no longer be displayed on the open ticket screen. 
+Click the firt ticket we created (Online Banking is Down), and make a couple adjustments. Since it's a business impacting event, change the priority to emergency, change the department to System Administrators, assign it to Jane Doe, and change the SLA to SEV-A. Scroll down and reply "Working with system administrators to get mobile banking online". Go back to Tickets and you should see "Priority" and "Assigned To" filled out. Click on the ticket again and reply "Scott corrected a load balancer and resolved the issue. Mobile banking is running again". Be sure to set the Ticket Status to "Resolved" and click post reply. Once resolved, the ticket moves from open ticket to closed tickets and should no longer be displayed on the open ticket screen. 
 </p>
 <br />
 

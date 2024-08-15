@@ -83,4 +83,6 @@ Next, click on the second ticket we created, Adobe Reader Not Working. Since it'
 
 
 
-Now that John no longer has any open tickets, log back in as Jane using the username Jane-Doe and the password you created when making her account, and click on the last ticket we made, "When are we getting a hardware refresh". Change the priority to low, assign it to Jane Doe, and change the SLA plan to SEV-C. Type the reply "Hardware refresh is slated for quarter 1. When you get a moment, send me an email and we can test the new units". Change the ticket status to resolved and close the ticket. 
+Now that John no longer has any open tickets, log back in as Jane using the username Jane-Doe and the password you created when making her account, and click on the last ticket we made, "When are we getting a hardware refresh". Change the priority to low, assign it to Jane Doe, and change the SLA plan to SEV-C. Type the reply "Hardware refresh is slated for quarter 1. When you get a moment, send me an email and we can test the new units". Change the ticket status to resolved and close the ticket. This will clear out all 3 tickets that we have created. Practice making tickets, assigning the right priority, agent and SLA, and working the ticket as the agent assigned to it.
+
+***Be sure to delete your virtual machines in Azure at the end of the tutorial so you don't have to pay for something you're not using***
